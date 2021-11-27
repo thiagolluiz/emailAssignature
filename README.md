@@ -2,4 +2,4 @@
 
 >***Any improvement is always welcome 😘**
 
-![illustrationToShow](https://github.com/thiagolluiz/emailAssignature/blob/main/emailAssignature.png)
+![illustrationToShow](https://github.com/thiagolluiz/emailAssignature/blob/main/emailSignature.png)
